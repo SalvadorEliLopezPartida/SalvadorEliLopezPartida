@@ -17,6 +17,8 @@ Soy Salvador Eli López Partida 😁✨
 - ⚡ Sabías que: a los gatos realmente les hace mal la leche 😲
 -->
 
+![](https://images.cooltext.com/5616898.png)
+
 | Hora    | Lun                         | Mar                         | Miérc                       | Jue                         | Vie                         |
 |---------|----------------------------|-----------------------------|-----------------------------|-----------------------------|----------------------------
 | 2:00 PM |    Sistemas  Operativos    |    Sistemas  Operativos     |    Sistemas  Operativos     |    Sistemas  Operativos     |                             
