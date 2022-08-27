@@ -1,18 +1,18 @@
 ![](https://images.cooltext.com/5616894.png)
 
-<!--
-**SalvadorEliLopezPartida/SalvadorEliLopezPartida** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+###¡Bienvenidos a todos!✨✨✨✨✨
 
-Here are some ideas to get you started:
+¡Este es mi repositorio de presentación!
+Soy Salvador Eli López Partida 😁✨
 
 - 🔭 Estudio en el Instituto Tecnológico de Tijuana en la Unidad de Tomás Aquino. 7mo semestre de Ingeniería en Sistemas Computacionales.
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- 🌱 Estoy aprendiendo a utilizar GitHub
+- 👯 Busco mejorar mis aprendizajes en la programación en general
+- 🤔 Tengo problemas de aprendizaje pero hago lo mejor para sobresalir día a día 😊
+- 💬 Puedes preguntarme acerca de gatos y videojuegos. Mis temas favoritos 😁
+- 📫 Puedes contactarme por mí correo: salvador.lopez193@tectijuana.edu.mx
+- 😄 Mis probombres son: él
+- ⚡ Sabías que: a los gatos realmente les hace mal la leche 😲
 -->
 
 | Hora    | Lun                         | Mar                         | Miérc                       | Jue                         | Vie                         |
