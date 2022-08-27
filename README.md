@@ -2,6 +2,8 @@
 
 ###¡Bienvenidos a todos!✨✨✨✨✨
 
+![](https://images.cooltext.com/5616897.png)
+
 ¡Este es mi repositorio de presentación!
 Soy Salvador Eli López Partida 😁✨
 
