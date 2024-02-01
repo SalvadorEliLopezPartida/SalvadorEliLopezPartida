@@ -7,13 +7,12 @@
 ¡Este es mi repositorio de presentación!
 Soy Salvador Eli López Partida 😁✨
 
-- 🔭 Estudio en el Instituto Tecnológico de Tijuana en la Unidad de Tomás Aquino. 7mo semestre de Ingeniería en Sistemas Computacionales.
+- 🔭 Estudio en el Instituto Tecnológico de Tijuana en la Unidad de Tomás Aquino. 9no semestre de Ingeniería en Sistemas Computacionales.
 - 🌱 Estoy aprendiendo a utilizar GitHub
 - 👯 Busco mejorar mis aprendizajes en la programación en general
 - 🤔 Tengo problemas de aprendizaje pero hago lo mejor para sobresalir día a día 😊
 - 💬 Puedes preguntarme acerca de gatos y videojuegos. Mis temas favoritos 😁
 - 📫 Puedes contactarme por mí correo: salvador.lopez193@tectijuana.edu.mx
-- 😄 Mis probombres son: él
 - ⚡ Sabías que: a los gatos realmente les hace mal la leche 😲
 -->
 
