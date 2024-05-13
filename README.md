@@ -21,9 +21,5 @@ Soy Salvador Eli López Partida 😁✨
 
 | Hora    | Lun                         | Mar                         | Miérc                       | Jue                         | Vie                         |
 |---------|----------------------------|-----------------------------|-----------------------------|-----------------------------|----------------------------
-| 2:00 PM |    Sistemas  Operativos    |    Sistemas  Operativos     |    Sistemas  Operativos     |    Sistemas  Operativos     |                             
-| 3:00 PM |  Lenguajes y  Automatas I  |  Lenguajes y  Automatas I   |  Lenguajes y  Automatas I   |  Lenguajes y  Automatas I   |  Lenguajes y  Automatas I  
-| 4:00 PM |   Lenguajes de  Interfaz   |    Lenguajes de  Interfaz   |    Lenguajes de  Interfaz   |    Lenguajes de  Interfaz   |                             
-| 5:00 PM |  Ingeniería de  software   |   Ingeniería de  software   |   Ingeniería de  software   |   Ingeniería de  software   |   Ingeniería de  software   
-| 6:00 PM | Conmutación  redes de datos| Conmutación  redes de datos | Conmutación  redes de datos | Conmutación  redes de datos | Conmutación  redes de datos 
-| 7:00 PM |  Taller de base  de datos  |   Taller de base  de datos  |   Taller de base  de datos  |   Taller de base  de datos  |                             
+| 4:00 PM |           PDD              |              PDD            |            PDD              |            PDD              |              PDD              |                        
+| 6:00 PM | Conmutación  redes de datos| Conmutación  redes de datos | Conmutación  redes de datos | Conmutación  redes de datos | Conmutación  redes de datos                            
