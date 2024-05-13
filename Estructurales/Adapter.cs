@@ -1,5 +1,8 @@
 //https://dotnetfiddle.net/hRl66o
-
+//Lopez Partida Salvador Eli 19211670 13/05/2024 Objetivo: comprender el funcionamiento de Adapter en C#
+//Actua como puente entre 2 objetos. Las llamadas se transportan en un objeto
+//y se transforma en una interfaz reconocible para el segundo objeto
+//Github Nickname: SalverEndeik 
 using System;
 
 namespace RefactoringGuru.DesignPatterns.Adapter.Conceptual
