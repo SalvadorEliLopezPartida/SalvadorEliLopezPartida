@@ -1,3 +1,4 @@
+https://dotnetfiddle.net/wBuCEB
 //Lopez Partida Salvador Eli 19211670 13/05/2024 Objetivo: comprender el funcionamiento de Decorator en C#.
 //Permiten envolver un mismo objeto una cantidad determinada de veces dada por el
 //usuario, dando como resultado un objeto con comportamiendo de apilado envuelto.
