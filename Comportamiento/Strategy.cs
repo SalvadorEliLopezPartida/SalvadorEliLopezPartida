@@ -1,35 +1,35 @@
 //https://dotnetfiddle.net/CmGwKl
+// Lopez Partida Salvador Eli 19211670 16/05/2024 Objetivo: comprender el funcionamiento de Strategy en C#.
+// Se encarga de convertir solicitudes y operaciones simples en objetos.
+//Github Nickname: SalverEndeik 
+
 using System;
 using System.Collections.Generic;
 
 namespace RefactoringGuru.DesignPatterns.Strategy.Conceptual
 {
-    // The Context defines the interface of interest to clients.
+
     class Context
     {
-        // The Context maintains a reference to one of the Strategy objects. The
-        // Context does not know the concrete class of a strategy. It should
-        // work with all strategies via the Strategy interface.
+		//La clase Context ayuda a referenciar los objetos con los que Strategy
+		//puede trabajar, siendo todos mediante el uso de uina Interfaz dedicada a Strategy
         private IStrategy _strategy;
 
         public Context()
         { }
-
-        // Usually, the Context accepts a strategy through the constructor, but
-        // also provides a setter to change it at runtime.
+		// Para que la Clase Context pueda aceptar un Strategy, es mediante 
+		// un constructor-
         public Context(IStrategy strategy)
         {
             this._strategy = strategy;
         }
 
-        // Usually, the Context allows replacing a Strategy object at runtime.
         public void SetStrategy(IStrategy strategy)
         {
             this._strategy = strategy;
         }
 
-        // The Context delegates some work to the Strategy object instead of
-        // implementing multiple versions of the algorithm on its own.
+
         public void DoSomeBusinessLogic()
         {
             Console.WriteLine("Context: Sorting data using the strategy (not sure how it'll do it)");
@@ -45,19 +45,11 @@ namespace RefactoringGuru.DesignPatterns.Strategy.Conceptual
         }
     }
 
-    // The Strategy interface declares operations common to all supported
-    // versions of some algorithm.
-    //
-    // The Context uses this interface to call the algorithm defined by Concrete
-    // Strategies.
     public interface IStrategy
     {
         object DoAlgorithm(object data);
     }
 
-    // Concrete Strategies implement the algorithm while following the base
-    // Strategy interface. The interface makes them interchangeable in the
-    // Context.
     class ConcreteStrategyA : IStrategy
     {
         public object DoAlgorithm(object data)
@@ -72,7 +64,8 @@ namespace RefactoringGuru.DesignPatterns.Strategy.Conceptual
     class ConcreteStrategyB : IStrategy
     {
         public object DoAlgorithm(object data)
-        {
+        { 
+		//sortea la información contenida dentro de Strategy
             var list = data as List<string>;
             list.Sort();
             list.Reverse();
@@ -85,9 +78,9 @@ namespace RefactoringGuru.DesignPatterns.Strategy.Conceptual
     {
         static void Main(string[] args)
         {
-            // The client code picks a concrete strategy and passes it to the
-            // context. The client should be aware of the differences between
-            // strategies in order to make the right choice.
+			// Esta parte se usa para obtener una estrategia y pasarla al contexto sigueinte.
+			// Para hacer la elección correcta,
+			// se deben conocer las diferencias entre Strategies.
             var context = new Context();
 
             Console.WriteLine("Client: Strategy is set to normal sorting.");
