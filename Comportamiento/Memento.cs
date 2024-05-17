@@ -1,6 +1,6 @@
 //https://dotnetfiddle.net/aQOWHD
 // Lopez Partida Salvador Eli 19211670 14/05/2024 Objetivo: comprender el funcionamiento de Memento en C#.
-// ermite tomar instantáneas del estado de un objeto y restaurarlo en el futuro.
+// Permite tomar instantáneas del estado de un objeto y restaurarlo en el futuro.
 //Github Nickname: SalverEndeik 
 
 using System;
